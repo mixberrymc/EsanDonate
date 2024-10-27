@@ -1,5 +1,5 @@
-# EasyDonate-Clone
-EsanDonate (EasyDonate Front-end Cloning)
+# EsanDonate
+An EasyDonate cloning for educational purposes.
 
 ![image](https://github.com/user-attachments/assets/67ab12b5-ccf5-4d3f-8304-3bff3dc8a021)
 
