@@ -10,6 +10,7 @@ function App() {
       <Nav />
       <Header />
       <Section1 />
+      <Header />
     </>
   );
 }
